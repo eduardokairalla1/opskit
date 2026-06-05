@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# AI tools
+.claude
+.aider*
+.continue
+.copilot
+
+# Logs
+*.log
